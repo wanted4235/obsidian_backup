@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "a839486da3c60f26",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec87319b1801f39e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "978497e096a7c53f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97cc00fdf4f1c3b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "62fef321475d34e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "867f7967985efe94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "7fc24fefdfbcdd62",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "cf654669e949693c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252.5
+  },
+  "right": {
+    "id": "d617bf78f3cf655b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a99cae6c26847ee7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cd6c4e5dceea84b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Подготовка к собеседованию/ТЕСТ 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для ТЕСТ 2"
+            }
+          },
+          {
+            "id": "908e47fb74463869",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Подготовка к собеседованию/ТЕСТ 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из ТЕСТ 2"
+            }
+          },
+          {
+            "id": "eb24d795d7824065",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "26ea39c87e94ab15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Подготовка к собеседованию/ТЕСТ 2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура ТЕСТ 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "867f7967985efe94",
+  "lastOpenFiles": [
+    "Подготовка к собеседованию/ghjkghghjghjkghj.md",
+    "Новая папка тест4.md",
+    "ТЕСТ1.md",
+    "Подготовка к собеседованию/TEST@@@@.md",
+    "Подготовка к собеседованию",
+    "text.txt",
+    "Новый текстовый документ.txt",
+    "Подготовка к собеседованию",
+    "TEST.md",
+    "Подготовка к собеседованию/Тест.md",
+    "Тест 3.md",
+    "Подготовка к собеседованию/ТЕСТ 2.md",
+    "создайте ссылку.md",
+    "Добро пожаловать.md",
+    "Подготовка к собеседованию"
+  ]
+}
