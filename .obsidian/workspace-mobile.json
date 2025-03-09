@@ -11,10 +11,14 @@
             "id": "51b33d4f863e36bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Тестовая папка/Тестовая заметка.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Тестовая заметка"
             }
           }
         ]
@@ -146,8 +150,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "51b33d4f863e36bd",
+  "active": "11b05f18fb9fa6af",
   "lastOpenFiles": [
+    "Тестовая папка/Тестовая заметка.md",
+    "Тестовая папка",
     "Новая папка тест4.md"
   ]
 }
