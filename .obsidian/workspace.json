@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/DOT NET/Архитектура/Виды архитектуры проекта.md",
+                "file": "Программирование/DOT NET/Архитектура/Чистая архитектура (Clean Architecture).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Виды архитектуры проекта"
+              "title": "Чистая архитектура (Clean Architecture)"
             }
           }
         ]
@@ -165,11 +165,15 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "978497e096a7c53f",
   "lastOpenFiles": [
+    "Программирование/DOT NET/Архитектура/Многослойная архитектура (Layered Architecture).md",
+    "Программирование/DOT NET/Архитектура/Чистая архитектура (Clean Architecture).md",
+    "Программирование/DOT NET/Архитектура/Монолитная архитектура (Monolithic Architecture).md",
     "Программирование/DOT NET/Архитектура/Виды архитектуры проекта.md",
     "Программирование/DOT NET/Архитектура",
     "Программирование/DOT NET",
