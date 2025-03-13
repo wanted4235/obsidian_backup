@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/DOT NET/Архитектура/Чистая архитектура (Clean Architecture).md",
+                "file": "Программирование/DOT NET/Архитектура/Микросервисная архитектура (Microservices Architecture).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Чистая архитектура (Clean Architecture)"
+              "title": "Микросервисная архитектура (Microservices Architecture)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 410.5
   },
   "right": {
     "id": "d617bf78f3cf655b",
@@ -171,8 +171,9 @@
   },
   "active": "978497e096a7c53f",
   "lastOpenFiles": [
-    "Программирование/DOT NET/Архитектура/Многослойная архитектура (Layered Architecture).md",
     "Программирование/DOT NET/Архитектура/Чистая архитектура (Clean Architecture).md",
+    "Программирование/DOT NET/Архитектура/Микросервисная архитектура (Microservices Architecture).md",
+    "Программирование/DOT NET/Архитектура/Многослойная архитектура (Layered Architecture).md",
     "Программирование/DOT NET/Архитектура/Монолитная архитектура (Monolithic Architecture).md",
     "Программирование/DOT NET/Архитектура/Виды архитектуры проекта.md",
     "Программирование/DOT NET/Архитектура",

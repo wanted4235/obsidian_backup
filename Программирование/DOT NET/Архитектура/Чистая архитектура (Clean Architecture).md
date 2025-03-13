@@ -102,7 +102,7 @@ CleanArchitectureApp/
 │
 ├── Application/           # Application Layer
 │   ├── UseCases/          # Use Cases
-│   ├── DTOs/             # Data Transfer Objects
+│   ├── DTOs/              # Data Transfer Objects
 │   ├── Services/          # Сервисы приложения
 │   └── Interfaces/        # Интерфейсы для Use Cases
 │
