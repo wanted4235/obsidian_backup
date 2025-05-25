@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/DOT NET/Архитектура/Луковая VS Чистая.md",
+                "file": "Программирование/📁 DotNet/📁 Architecture/Архитектура/Луковая VS Чистая.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 264.5
   },
   "right": {
     "id": "d617bf78f3cf655b",
@@ -169,35 +169,36 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3f27047f7e287141",
+  "active": "867f7967985efe94",
   "lastOpenFiles": [
+    "Программирование/📁 CSharp/📁 Resources/📁 Links",
+    "Программирование/📁 CSharp/📁 Resources/📁 Cheatsheets",
+    "Программирование/📁 CSharp/📁 Resources",
+    "Программирование/📁 CSharp/📁 Theory/📁 Patterns",
+    "Программирование/📁 CSharp/📁 Theory/📁 Advanced",
+    "Программирование/📁 CSharp/📁 Theory/📁 OOP",
+    "Программирование/📁 CSharp/📁 Theory/📁 Basics",
+    "Программирование/📁 CSharp/📁 Theory",
+    "Программирование/📁 CSharp/📁 Practice/📁 Code_Snippets",
+    "Программирование/📁 CSharp/📁 Practice/📁 Exercises",
+    "Программирование/📁 CSharp/📁 Practice/📁 Projects",
     "Тестовая папка/Тестовая заметка.md",
-    "Программирование/DOT NET/Архитектура/Луковая VS Чистая.md",
-    "Тестовая папка",
-    "Программирование/DOT NET/Архитектура/Чистая архитектура (Clean Architecture).md",
-    "Программирование/DOT NET/Архитектура/Луковая архитектура (Onion Architecture).md",
-    "Программирование/DOT NET/Архитектура/Виды архитектуры проекта.md",
-    "Программирование/DOT NET/Архитектура/Микросервисная архитектура (Microservices Architecture).md",
-    "Программирование/DOT NET/Архитектура/Многослойная архитектура (Layered Architecture).md",
-    "Программирование/DOT NET/Архитектура/Монолитная архитектура (Monolithic Architecture).md",
-    "Программирование/DOT NET/Архитектура",
-    "Программирование/DOT NET",
-    "Программирование",
-    "Тестовая папка",
+    "Программирование/📁 DotNet/📁 Architecture/Архитектура/Луковая VS Чистая.md",
+    "Программирование/📁 DotNet/📁 Architecture/Архитектура/Чистая архитектура (Clean Architecture).md",
+    "Программирование/📁 DotNet/📁 Architecture/Архитектура/Луковая архитектура (Onion Architecture).md",
+    "Программирование/📁 DotNet/📁 Architecture/Архитектура/Виды архитектуры проекта.md",
+    "Программирование/📁 DotNet/📁 Architecture/Архитектура/Микросервисная архитектура (Microservices Architecture).md",
+    "Программирование/📁 DotNet/📁 Architecture/Архитектура/Многослойная архитектура (Layered Architecture).md",
+    "Программирование/📁 DotNet/📁 Architecture/Архитектура/Монолитная архитектура (Monolithic Architecture).md",
     "Подготовка к собеседованию/ghjkghghjghjkghj.md",
     "Новая папка тест4.md",
     "ТЕСТ1.md",
     "Подготовка к собеседованию/TEST@@@@.md",
-    "Подготовка к собеседованию",
-    "text.txt",
-    "Новый текстовый документ.txt",
-    "Подготовка к собеседованию",
     "TEST.md",
     "Подготовка к собеседованию/Тест.md",
     "Тест 3.md",
     "Подготовка к собеседованию/ТЕСТ 2.md",
     "создайте ссылку.md",
-    "Добро пожаловать.md",
-    "Подготовка к собеседованию"
+    "Добро пожаловать.md"
   ]
 }
