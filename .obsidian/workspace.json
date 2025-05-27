@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/📁 DotNet/📁 Architecture/Архитектура/Луковая VS Чистая.md",
+                "file": "Программирование/📁 CSharp/📁 Books/Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование/Эволюция развития параллельного программирования в .NET.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Луковая VS Чистая"
+              "title": "Эволюция развития параллельного программирования в .NET"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 491.5
   },
   "right": {
     "id": "d617bf78f3cf655b",
@@ -169,8 +169,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "867f7967985efe94",
+  "active": "3f27047f7e287141",
   "lastOpenFiles": [
+    "Программирование/📁 DotNet/📁 Architecture/Архитектура/Луковая VS Чистая.md",
+    "Программирование/📁 CSharp/📁 Books/Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование/Эволюция развития параллельного программирования в .NET.md",
+    "Программирование/📁 CSharp/📁 Books/Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование",
+    "Программирование/📁 CSharp/📁 Books/Параллельное программирование на CSharp и .NET",
     "Программирование/📁 CSharp/📁 Resources/📁 Links",
     "Программирование/📁 CSharp/📁 Resources/📁 Cheatsheets",
     "Программирование/📁 CSharp/📁 Resources",
@@ -179,11 +183,7 @@
     "Программирование/📁 CSharp/📁 Theory/📁 OOP",
     "Программирование/📁 CSharp/📁 Theory/📁 Basics",
     "Программирование/📁 CSharp/📁 Theory",
-    "Программирование/📁 CSharp/📁 Practice/📁 Code_Snippets",
-    "Программирование/📁 CSharp/📁 Practice/📁 Exercises",
-    "Программирование/📁 CSharp/📁 Practice/📁 Projects",
     "Тестовая папка/Тестовая заметка.md",
-    "Программирование/📁 DotNet/📁 Architecture/Архитектура/Луковая VS Чистая.md",
     "Программирование/📁 DotNet/📁 Architecture/Архитектура/Чистая архитектура (Clean Architecture).md",
     "Программирование/📁 DotNet/📁 Architecture/Архитектура/Луковая архитектура (Onion Architecture).md",
     "Программирование/📁 DotNet/📁 Architecture/Архитектура/Виды архитектуры проекта.md",
