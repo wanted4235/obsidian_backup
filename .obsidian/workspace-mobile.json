@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aaf085e71f40b2b1",
+        "id": "06d89379cb769517",
         "type": "tabs",
         "children": [
           {
-            "id": "66a9dd9f398c01a5",
+            "id": "19cd12370a862bca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/DOT NET/Архитектура/Луковая VS Чистая.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Луковая VS Чистая"
             }
           }
         ]
@@ -94,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Программирование/DOT NET/Архитектура/Луковая VS Чистая.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -146,8 +151,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "66a9dd9f398c01a5",
+  "active": "19cd12370a862bca",
   "lastOpenFiles": [
+    "Программирование/DOT NET/Архитектура/Виды архитектуры проекта.md",
+    "Программирование/DOT NET/Архитектура/Луковая VS Чистая.md",
+    "Программирование/DOT NET/Архитектура/Микросервисная архитектура (Microservices Architecture).md",
+    "Программирование/DOT NET/Архитектура/Луковая архитектура (Onion Architecture).md",
     "2025-03-10.md",
     "Тестовая папка/Тестовая заметка.md",
     "Тестовая папка",
