@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 11. Курсоры/11.4 Курсорные переменные.md",
+                "file": "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.1 Объявление массива.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.4 Курсорные переменные"
+              "title": "12.1 Объявление массива"
             }
           }
         ]
@@ -172,8 +172,10 @@
   },
   "active": "1cd035406a408002",
   "lastOpenFiles": [
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 11. Курсоры/11.3 Использование курсоров для изменения данных.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 11. Курсоры/11.4 Курсорные переменные.md",
+    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.1 Объявление массива.md",
+    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы",
+    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 11. Курсоры/11.3 Использование курсоров для изменения данных.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 11. Курсоры/11.2 Циклы для курсоров.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 11. Курсоры/11.1 Использование курсоров.md",
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.19 Родительские и дочерние задачи.md",
@@ -202,11 +204,9 @@
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.5 Метод System.Threading.Tasks.Task.Factory. StartNew.md",
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.6 Метод System.Threading.Tasks.Task.Delay.md",
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.7 Метод System.Threading.Tasks.Task.Yield.md",
-    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.8 Метод System.Threading.Tasks.Task.FromResult.md",
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач",
     "Программирование/📁 CSharp/📁 Theory/📁 Computer_Science/OS",
     "Программирование/📁 CSharp/📁 Theory/📁 Computer_Science",
-    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование",
-    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET"
+    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование"
   ]
 }
