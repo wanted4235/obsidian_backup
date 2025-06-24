@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL PgSQL.md",
+                "file": "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9. Pl_pgSQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Глава 9. Структура программ PL PgSQL"
+              "title": "9. Pl_pgSQL"
             }
           }
         ]
@@ -172,8 +172,11 @@
   },
   "active": "1cd035406a408002",
   "lastOpenFiles": [
-    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.13 Создание меток.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL PgSQL.md",
+    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9. Pl_pgSQL.md",
+    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL",
+    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/9.1..md",
+    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.13 Создание меток.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL",
     "Программирование/📁 Common/📁 Databases/📁 Books",
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.12 Отмена задач.md",
@@ -198,15 +201,12 @@
     "Программирование/📁 CSharp/📁 Theory/📁 Computer_Science/OS/Task Sheduler.md",
     "Программирование/📁 CSharp/📁 Theory/📁 Computer_Science/OS/Hyper-threading.md",
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование/1.2 Процесс, многозадачность.md",
-    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование/1.1 Эволюция развития параллельного программирования в .NET.md",
-    "Программирование/📁 CSharp/📁 Theory/📁 Computer_Science/OS/Процесс.md",
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач",
     "Программирование/📁 CSharp/📁 Theory/📁 Computer_Science/OS",
     "Программирование/📁 CSharp/📁 Theory/📁 Computer_Science",
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование",
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET",
     "Программирование/📁 CSharp/📁 Resources/📁 Links",
-    "Программирование/📁 CSharp/📁 Resources/📁 Cheatsheets",
-    "Программирование/📁 CSharp/📁 Resources"
+    "Программирование/📁 CSharp/📁 Resources/📁 Cheatsheets"
   ]
 }
