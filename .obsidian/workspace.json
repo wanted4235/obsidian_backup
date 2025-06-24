@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.3 Циклы для массивов.md",
+                "file": "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.4 Многоуровневые массивы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.3 Циклы для массивов"
+              "title": "12.4 Многоуровневые массивы"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "1cd035406a408002",
   "lastOpenFiles": [
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.2 Функции для работы с массивами.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.3 Циклы для массивов.md",
+    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.4 Многоуровневые массивы.md",
+    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.2 Функции для работы с массивами.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.1 Объявление массива.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 11. Курсоры/11.4 Курсорные переменные.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы",
@@ -203,7 +204,6 @@
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.2 Создание и запуск задачи.md",
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.3 Класс System.Threading.Tasks.Task.md",
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.4 Метод System.Threading.Tasks.Task.Run.md",
-    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.5 Метод System.Threading.Tasks.Task.Factory. StartNew.md",
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач",
     "Программирование/📁 CSharp/📁 Theory/📁 Computer_Science/OS",
     "Программирование/📁 CSharp/📁 Theory/📁 Computer_Science",
