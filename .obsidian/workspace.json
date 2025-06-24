@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9.1 Структура блока PL pgSQL.md",
+                "file": "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9.2 Анонимные блоки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.1 Структура блока PL pgSQL"
+              "title": "9.2 Анонимные блоки"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "1cd035406a408002",
   "lastOpenFiles": [
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9. Pl_pgSQL.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9.1 Структура блока PL pgSQL.md",
+    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9.2 Анонимные блоки.md",
+    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9. Pl_pgSQL.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL PgSQL.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/9.1..md",
@@ -200,7 +201,6 @@
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.19 Родительские и дочерние задачи.md",
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.20 Очереди с перехватом работы.md",
     "Программирование/📁 CSharp/📁 Theory/📁 Computer_Science/OS/Task Sheduler.md",
-    "Программирование/📁 CSharp/📁 Theory/📁 Computer_Science/OS/Hyper-threading.md",
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач",
     "Программирование/📁 CSharp/📁 Theory/📁 Computer_Science/OS",
     "Программирование/📁 CSharp/📁 Theory/📁 Computer_Science",
