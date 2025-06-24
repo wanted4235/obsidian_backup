@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 10. Операторы управления/10.2 Использование команд и выражений CASE.md",
+                "file": "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 10. Операторы управления/10.3 Операторы цикла.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.2 Использование команд и выражений CASE"
+              "title": "10.3 Операторы цикла"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "1cd035406a408002",
   "lastOpenFiles": [
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 10. Операторы управления/10.1 Условные операторы IF ELSE.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 10. Операторы управления/10.2 Использование команд и выражений CASE.md",
+    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 10. Операторы управления/10.3 Операторы цикла.md",
+    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 10. Операторы управления/10.1 Условные операторы IF ELSE.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9.4 Операторы SQL в PL pgSQL.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 10. Операторы управления",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9.3 Переменные, константы и типы данных.md",
@@ -201,7 +202,6 @@
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.14 Ожидание выполнения задач.md",
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.15 Обработка исключений в задачах.md",
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.16 Преобразование шаблонов АРМ в задачи.md",
-    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.17 Преобразование EAP в задачи.md",
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач",
     "Программирование/📁 CSharp/📁 Theory/📁 Computer_Science/OS",
     "Программирование/📁 CSharp/📁 Theory/📁 Computer_Science",
