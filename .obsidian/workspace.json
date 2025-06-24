@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9.4 Операторы SQL в PL pgSQL.md",
+                "file": "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 10. Операторы управления/10.1 Условные операторы IF ELSE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.4 Операторы SQL в PL pgSQL"
+              "title": "10.1 Условные операторы IF ELSE"
             }
           }
         ]
@@ -172,8 +172,10 @@
   },
   "active": "1cd035406a408002",
   "lastOpenFiles": [
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9.3 Переменные, константы и типы данных.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9.4 Операторы SQL в PL pgSQL.md",
+    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 10. Операторы управления/10.1 Условные операторы IF ELSE.md",
+    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 10. Операторы управления",
+    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9.3 Переменные, константы и типы данных.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9.2 Анонимные блоки.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9.1 Структура блока PL pgSQL.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9. Pl_pgSQL.md",
@@ -200,13 +202,11 @@
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.16 Преобразование шаблонов АРМ в задачи.md",
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.17 Преобразование EAP в задачи.md",
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.18 Цепочки задач.md",
-    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.19 Родительские и дочерние задачи.md",
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач",
     "Программирование/📁 CSharp/📁 Theory/📁 Computer_Science/OS",
     "Программирование/📁 CSharp/📁 Theory/📁 Computer_Science",
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование",
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET",
-    "Программирование/📁 CSharp/📁 Resources/📁 Links",
-    "Программирование/📁 CSharp/📁 Resources/📁 Cheatsheets"
+    "Программирование/📁 CSharp/📁 Resources/📁 Links"
   ]
 }
