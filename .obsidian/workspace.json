@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.6 Использование массивов и курсоров для  повышения эффективности обработки данных.md",
+                "file": "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/3. JSON message protocol settings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.6 Использование массивов и курсоров для  повышения эффективности обработки данных"
+              "title": "3. JSON message protocol settings"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.5
+    "width": 333.5
   },
   "right": {
     "id": "d617bf78f3cf655b",
@@ -172,8 +172,27 @@
   },
   "active": "1cd035406a408002",
   "lastOpenFiles": [
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.5 Использование массивов в столбцах таблицы.md",
+    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/2. Top-level SignalR configuration.md",
+    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/1. Configuring SignalR server.md",
+    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/3. JSON message protocol settings.md",
+    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование/1.3 Hyper-threading (HT), классификация Флинна.md",
+    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование/1.2 Процесс, многозадачность.md",
+    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование/1.1 Эволюция развития параллельного программирования в .NET.md",
+    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование/1.5 Апартаментное состояние в модели COM.md",
+    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование/1.4 Потоки, типы потоков.md",
+    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 1. Introduction to SignalR/1. Introduction SignalR.md",
+    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration",
+    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Без названия.md",
+    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 11. Курсоры/11.1 Использование курсоров.md",
+    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 1. Introduction to SignalR",
+    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide",
+    "Программирование/📁 DotNet/📁 SignalR/📁 Books/SignalR on .NET 6 - the Complete Guide.md",
+    "Программирование/📁 DotNet/📁 SignalR/📁 Books",
+    "Программирование/📁 DotNet/📁 SignalR",
+    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9.1 Структура блока PL pgSQL.md",
+    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9. Pl_pgSQL.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.6 Использование массивов и курсоров для  повышения эффективности обработки данных.md",
+    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.5 Использование массивов в столбцах таблицы.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.4 Многоуровневые массивы.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.3 Циклы для массивов.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.2 Функции для работы с массивами.md",
@@ -182,31 +201,12 @@
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 11. Курсоры/11.3 Использование курсоров для изменения данных.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 11. Курсоры/11.2 Циклы для курсоров.md",
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 11. Курсоры/11.1 Использование курсоров.md",
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.19 Родительские и дочерние задачи.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 10. Операторы управления/10.3 Операторы цикла.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 11. Курсоры",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 10. Операторы управления/10.2 Использование команд и выражений CASE.md",
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 10. Операторы управления/10.1 Условные операторы IF ELSE.md",
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9.4 Операторы SQL в PL pgSQL.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 10. Операторы управления",
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9.3 Переменные, константы и типы данных.md",
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9.2 Анонимные блоки.md",
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9.1 Структура блока PL pgSQL.md",
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9. Pl_pgSQL.md",
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL PgSQL.md",
     "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL",
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/9.1..md",
-    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.13 Создание меток.md",
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL",
-    "Программирование/📁 Common/📁 Databases/📁 Books",
-    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.12 Отмена задач.md",
-    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.11 Результаты выполнения задач.md",
-    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.1 Задачи.md",
-    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач/2.2 Создание и запуск задачи.md",
-    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 2. Параллелизм задач",
-    "Программирование/📁 CSharp/📁 Theory/📁 Computer_Science/OS",
-    "Программирование/📁 CSharp/📁 Theory/📁 Computer_Science",
-    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование"
+    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL"
   ]
 }
