@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/7. 🖥️ Configuring .NET client.md",
+                "file": "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/1. 🔧Configuring SignalR server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. 🖥️ Configuring .NET client"
+              "title": "1. 🔧Configuring SignalR server"
             }
           }
         ]
@@ -172,12 +172,12 @@
   },
   "active": "1cd035406a408002",
   "lastOpenFiles": [
+    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/3. 🔧JSON message protocol settings.md",
+    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/4. 🔧Applying advanced transport configuration.md",
+    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/5. 🖥️ Configuring SignalR client.md",
     "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/6. 🖥️ Configuring JavaScript client.md",
     "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/7. 🖥️ Configuring .NET client.md",
-    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/5. 🖥️ Configuring SignalR client.md",
     "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/1. 🔧Configuring SignalR server.md",
-    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/4. 🔧Applying advanced transport configuration.md",
-    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/3. 🔧JSON message protocol settings.md",
     "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/2. 🔧Top-level SignalR configuration.md",
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование/1.3 Hyper-threading (HT), классификация Флинна.md",
     "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование/1.2 Процесс, многозадачность.md",
