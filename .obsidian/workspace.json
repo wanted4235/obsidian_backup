@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/11. Disadvantages of MessagePack protocol.md",
-                "mode": "source",
+                "file": "Программирование/📚 DotNet/📁 Architecture/Архитектурные паттерны/Виды архитектуры проекта.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Disadvantages of MessagePack protocol"
+              "title": "Виды архитектуры проекта"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 370.5
   },
   "right": {
     "id": "d617bf78f3cf655b",
@@ -170,43 +170,43 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1cd035406a408002",
+  "active": "867f7967985efe94",
   "lastOpenFiles": [
-    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/10. Applying MessagePack on .NET client.md",
-    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/9. Applying MessagePack on JavaScript client.md",
-    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/8. Proc and cons of MessagePack protocol.md",
-    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/11. Disadvantages of MessagePack protocol.md",
-    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/7. 🖥️ Configuring .NET client.md",
-    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/4. 🔧Applying advanced transport configuration.md",
-    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/3. 🔧JSON message protocol settings.md",
-    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/2. 🔧Top-level SignalR configuration.md",
-    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/1. 🔧Configuring SignalR server.md",
-    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 1. Introduction to SignalR/1. Introduction SignalR.md",
-    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/5. 🖥️ Configuring SignalR client.md",
-    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/6. 🖥️ Configuring JavaScript client.md",
-    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование/1.3 Hyper-threading (HT), классификация Флинна.md",
-    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование/1.2 Процесс, многозадачность.md",
-    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование/1.1 Эволюция развития параллельного программирования в .NET.md",
-    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование/1.5 Апартаментное состояние в модели COM.md",
-    "Программирование/📁 CSharp/📁 Books/📘 Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование/1.4 Потоки, типы потоков.md",
-    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration",
+    "Программирование/📚 Common/🗄️ Databases/📚 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.2 Функции для работы с массивами.md",
+    "Программирование/📚 Common/🗄️ Databases/📚 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.1 Объявление массива.md",
+    "Программирование/📚 Common/🗄️ Databases/📚 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9.2 Анонимные блоки.md",
+    "Программирование/📚 Common/🗄️ Databases/📚 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9.1 Структура блока PL pgSQL.md",
+    "Программирование/📚 Common/🗄️ Databases/📚 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9. Pl_pgSQL.md",
+    "Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 1. Introduction to SignalR/1. Introduction SignalR.md",
+    "📚 Computer_Science/🐧 Linux",
+    "Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/1. 🔧Configuring SignalR server.md",
+    "Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/7. 🖥️ Configuring .NET client.md",
+    "Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/3. 🔧JSON message protocol settings.md",
+    "Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/10. Applying MessagePack on .NET client.md",
+    "Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/11. Disadvantages of MessagePack protocol.md",
+    "Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 8.  Securing your SignalR applications",
+    "Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/9. Applying MessagePack on JavaScript client.md",
+    "Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/8. Proc and cons of MessagePack protocol.md",
+    "Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/6. 🖥️ Configuring JavaScript client.md",
+    "Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/5. 🖥️ Configuring SignalR client.md",
+    "Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/4. 🔧Applying advanced transport configuration.md",
+    "Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/2. 🔧Top-level SignalR configuration.md",
+    "Программирование/📚 CSharp/📚 Books/📘 Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование/1.3 Hyper-threading (HT), классификация Флинна.md",
+    "Программирование/📚 CSharp/📚 Books/📘 Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование/1.2 Процесс, многозадачность.md",
+    "Программирование/📚 CSharp/📚 Books/📘 Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование/1.1 Эволюция развития параллельного программирования в .NET.md",
+    "Программирование/📚 CSharp/📚 Books/📘 Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование/1.5 Апартаментное состояние в модели COM.md",
+    "Программирование/📚 CSharp/📚 Books/📘 Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование/1.4 Потоки, типы потоков.md",
+    "Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration",
     "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Без названия.md",
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 11. Курсоры/11.1 Использование курсоров.md",
-    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide/Глава 1. Introduction to SignalR",
-    "Программирование/📁 DotNet/📁 SignalR/📁 Books/📘 SignalR on .NET 6 - the Complete Guide",
+    "Программирование/📚 Common/🗄️ Databases/📚 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 11. Курсоры/11.1 Использование курсоров.md",
+    "Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 1. Introduction to SignalR",
+    "Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide",
     "Программирование/📁 DotNet/📁 SignalR/📁 Books/SignalR on .NET 6 - the Complete Guide.md",
     "Программирование/📁 DotNet/📁 SignalR/📁 Books",
     "Программирование/📁 DotNet/📁 SignalR",
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9.1 Структура блока PL pgSQL.md",
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9. Pl_pgSQL.md",
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.6 Использование массивов и курсоров для  повышения эффективности обработки данных.md",
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.5 Использование массивов в столбцах таблицы.md",
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.4 Многоуровневые массивы.md",
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.3 Циклы для массивов.md",
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы",
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 11. Курсоры",
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 10. Операторы управления",
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL",
-    "Программирование/📁 Common/📁 Databases/📁 Books/📘 PostgreSQL SQL+PL_pgSQL"
+    "Программирование/📚 Common/🗄️ Databases/📚 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.6 Использование массивов и курсоров для  повышения эффективности обработки данных.md",
+    "Программирование/📚 Common/🗄️ Databases/📚 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы",
+    "Программирование/📚 Common/🗄️ Databases/📚 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 11. Курсоры",
+    "Программирование/📚 Common/🗄️ Databases/📚 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 10. Операторы управления"
   ]
 }
