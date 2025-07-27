@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Пак значков/💻 Программирование и технологии.md",
+                "file": "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/6. Сетевое подключение.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "💻 Программирование и технологии"
+              "title": "6. Сетевое подключение"
             }
           }
         ]
@@ -170,8 +170,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "867f7967985efe94",
+  "active": "1cd035406a408002",
   "lastOpenFiles": [
+    "📚 Пак значков/💻 Программирование и технологии.md",
+    "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/6. Сетевое подключение.md",
     "📚 Computer_Science/🐧 Linux/🧑‍💻 Команды и инструкции/Топ основных команд Linux.md",
     "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/5. Работа в консоли Ubuntu.md",
     "📚 Computer_Science/🐧 Linux/🧑‍💻 Команды и инструкции",
@@ -179,7 +181,6 @@
     "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/3. Создание виртуальном машины Ubuntu.md",
     "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/2. Установка VirtualBox.md",
     "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/1. Предварительная подготовка.md",
-    "📚 Пак значков/💻 Программирование и технологии.md",
     "📚 Пак значков/🌐 Веб и фронтенд.md",
     "📚 Пак значков/🎥 Медиа и ресурсы.md",
     "📚 Пак значков/🏗️ Архитектура и проектирование.md",
@@ -201,7 +202,6 @@
     "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/7. 🖥️ Configuring .NET client.md",
     "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/3. 🔧JSON message protocol settings.md",
     "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/10. Applying MessagePack on .NET client.md",
-    "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/11. Disadvantages of MessagePack protocol.md",
     "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 8.  Securing your SignalR applications",
     "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration",
     "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 1. Introduction to SignalR",
