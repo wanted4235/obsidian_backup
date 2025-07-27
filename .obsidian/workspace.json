@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ac0f462a71a63dc6",
+        "id": "2e19c5e4da26fcec",
         "type": "tabs",
         "children": [
           {
-            "id": "1cd035406a408002",
+            "id": "005b88702d6d5738",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Computer_Science/🐧 Linux/🧑‍💻 Устройство Linux/Файловая система.md",
+                "file": "📚 Computer_Science/🖥️ OS/Сетевое подключение - Bridge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Файловая система"
+              "title": "Сетевое подключение - Bridge"
             }
           }
         ]
@@ -170,12 +170,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1cd035406a408002",
+  "active": "005b88702d6d5738",
   "lastOpenFiles": [
-    "📚 Computer_Science/🐧 Linux/🧑‍💻 Устройство Linux/Работа с файлами.md",
-    "📚 Computer_Science/🐧 Linux/🧑‍💻 Устройство Linux/Команды и инструкции.md",
-    "📚 Computer_Science/🐧 Linux/🧑‍💻 Устройство Linux/Файловая система.md",
     "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/6. Сетевое подключение.md",
+    "📚 Computer_Science/🖥️ OS/Сетевое подключение - Bridge.md",
+    "📚 Computer_Science/🐧 Linux/🧑‍💻 Устройство Linux/Команды и инструкции.md",
+    "NAT.md",
+    "📚 Computer_Science/🖥️ OS/Сетевое подключение - NAT.md",
+    "Без названия",
+    "📚 Computer_Science/🐧 Linux/🧑‍💻 Устройство Linux/Файловая система.md",
+    "📚 Computer_Science/🐧 Linux/🧑‍💻 Устройство Linux/Работа с файлами.md",
     "📚 Пак значков/💻 Программирование и технологии.md",
     "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/5. Работа в консоли Ubuntu.md",
     "📚 Computer_Science/🐧 Linux/🧑‍💻 Устройство Linux",
@@ -198,15 +202,11 @@
     "📚 Программирование/📚 Common/🗄️ Databases/📚 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.2 Функции для работы с массивами.md",
     "📚 Программирование/📚 Common/🗄️ Databases/📚 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.1 Объявление массива.md",
     "📚 Программирование/📚 Common/🗄️ Databases/📚 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9.2 Анонимные блоки.md",
-    "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 1. Introduction to SignalR/1. Introduction SignalR.md",
     "📚 Computer_Science/🐧 Linux",
-    "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/1. 🔧Configuring SignalR server.md",
-    "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/7. 🖥️ Configuring .NET client.md",
     "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 8.  Securing your SignalR applications",
     "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration",
     "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 1. Introduction to SignalR",
     "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide",
-    "Программирование/📁 DotNet/📁 SignalR/📁 Books",
-    "Программирование/📁 DotNet/📁 SignalR"
+    "Программирование/📁 DotNet/📁 SignalR/📁 Books"
   ]
 }
