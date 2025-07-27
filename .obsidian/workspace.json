@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Программирование/📚 DotNet/🏗️ Architecture/🧩 Архитектурные паттерны/Виды архитектуры проекта.md",
-                "mode": "preview",
+                "file": "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/4. Установка Ubuntu Server.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Виды архитектуры проекта"
+              "title": "4. Установка Ubuntu Server"
             }
           }
         ]
@@ -172,18 +172,23 @@
   },
   "active": "1cd035406a408002",
   "lastOpenFiles": [
-    "📚 Пак значков/🧠 Личное развитие и soft skills.md",
+    "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/3. Создание виртуальном машины Ubuntu.md",
+    "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/4. Установка Ubuntu Server.md",
+    "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/2. Установка VirtualBox.md",
+    "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/1. Предварительная подготовка.md",
+    "📚 Пак значков/💻 Программирование и технологии.md",
+    "📚 Пак значков/🌐 Веб и фронтенд.md",
+    "📚 Пак значков/🎥 Медиа и ресурсы.md",
+    "📚 Пак значков/🏗️ Архитектура и проектирование.md",
     "📚 Пак значков/📝 Образование и знания.md",
     "📚 Пак значков/📁 Организация и навигация.md",
-    "📚 Пак значков/💻 Программирование и технологии.md",
-    "📚 Пак значков/🏗️ Архитектура и проектирование.md",
-    "📚 Пак значков/🎥 Медиа и ресурсы.md",
-    "📚 Пак значков/🌐 Веб и фронтенд.md",
+    "📚 Программирование/📚 DotNet/🏗️ Architecture/🧩 Архитектурные паттерны/Виды архитектуры проекта.md",
+    "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM",
+    "📚 Пак значков/🧠 Личное развитие и soft skills.md",
     "📚 Программирование/📚 CSharp/📚 Books/📘 Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование/1.9 BackgroundWorker.md",
     "📚 Пак значков",
     "📚 Программирование/📚 Common/🗄️ Databases/📚 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9.1 Структура блока PL pgSQL.md",
     "📚 Программирование/📚 Common/🗄️ Databases/📚 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9. Pl_pgSQL.md",
-    "📚 Программирование/📚 DotNet/🏗️ Architecture/🧩 Архитектурные паттерны/Виды архитектуры проекта.md",
     "📚 Программирование/📚 Common/🗄️ Databases/📚 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.2 Функции для работы с массивами.md",
     "📚 Программирование/📚 Common/🗄️ Databases/📚 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.1 Объявление массива.md",
     "📚 Программирование/📚 Common/🗄️ Databases/📚 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9.2 Анонимные блоки.md",
@@ -197,16 +202,11 @@
     "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 8.  Securing your SignalR applications",
     "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/9. Applying MessagePack on JavaScript client.md",
     "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/8. Proc and cons of MessagePack protocol.md",
-    "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/6. 🖥️ Configuring JavaScript client.md",
-    "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/5. 🖥️ Configuring SignalR client.md",
-    "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/4. 🔧Applying advanced transport configuration.md",
-    "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration/2. 🔧Top-level SignalR configuration.md",
     "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration",
     "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 1. Introduction to SignalR",
     "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide",
     "Программирование/📁 DotNet/📁 SignalR/📁 Books",
     "Программирование/📁 DotNet/📁 SignalR",
-    "📚 Программирование/📚 Common/🗄️ Databases/📚 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы",
-    "📚 Программирование/📚 Common/🗄️ Databases/📚 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 11. Курсоры"
+    "📚 Программирование/📚 Common/🗄️ Databases/📚 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы"
   ]
 }
