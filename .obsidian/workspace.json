@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/6. Сетевое подключение.md",
+                "file": "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/8. Копирование виртуальных машин.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Сетевое подключение"
+              "title": "8. Копирование виртуальных машин"
             }
           }
         ]
@@ -172,8 +172,10 @@
   },
   "active": "005b88702d6d5738",
   "lastOpenFiles": [
-    "📚 Computer_Science/🖥️ OS/Сетевое подключение - виртуальный адаптер хоста.md",
+    "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/7. Работа со snapshot'ом (снимки)..md",
+    "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/8. Копирование виртуальных машин.md",
     "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/6. Сетевое подключение.md",
+    "📚 Computer_Science/🖥️ OS/Сетевое подключение - виртуальный адаптер хоста.md",
     "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/5. Работа в консоли Ubuntu.md",
     "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/4. Установка Ubuntu Server.md",
     "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/3. Создание виртуальном машины Ubuntu.md",
@@ -200,8 +202,6 @@
     "📚 Пак значков",
     "📚 Программирование/📚 Common/🗄️ Databases/📚 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9.1 Структура блока PL pgSQL.md",
     "📚 Программирование/📚 Common/🗄️ Databases/📚 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9. Pl_pgSQL.md",
-    "📚 Программирование/📚 Common/🗄️ Databases/📚 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.2 Функции для работы с массивами.md",
-    "📚 Программирование/📚 Common/🗄️ Databases/📚 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 12. Массивы/12.1 Объявление массива.md",
     "📚 Computer_Science/🐧 Linux",
     "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 8.  Securing your SignalR applications",
     "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration",
