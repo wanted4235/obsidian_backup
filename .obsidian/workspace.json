@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/9. Архивирование БД на виртуальной машине.md",
+                "file": "📚 Computer_Science/🐳 Docker/Docker и БД/4. О дампах и бэкапах БД в реальных проектах.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Архивирование БД на виртуальной машине"
+              "title": "4. О дампах и бэкапах БД в реальных проектах"
             }
           }
         ]
@@ -172,8 +172,20 @@
   },
   "active": "005b88702d6d5738",
   "lastOpenFiles": [
-    "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/8. Копирование виртуальных машин.md",
+    "📚 Computer_Science/🖥️ OS/Отличие дампа базы данных от бэкапа базы данных.md",
+    "📚 Computer_Science/🐳 Docker/Docker и БД/4. О дампах и бэкапах БД в реальных проектах.md",
+    "📚 Computer_Science/🐳 Docker/Docker и БД/3. docker-compose.yml с автоматическим восстановлением из дампа при старте.md",
+    "📚 Computer_Science/🐳 Docker/Docker и БД/2. Пример восстановления базы данных PostgreSQL из Docker Volume.md",
+    "📚 Computer_Science/🐳 Docker/Docker и БД/1. Данные внутри контейнера Docker.md",
+    "📚 Пак значков/💻 Программирование и технологии.md",
+    "📚 Computer_Science/🐳 Docker/Docker и БД",
+    "📚 Пак значков/🏗️ Архитектура и проектирование.md",
+    "📚 Пак значков/🎥 Медиа и ресурсы.md",
+    "📚 Пак значков/🌐 Веб и фронтенд.md",
     "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/9. Архивирование БД на виртуальной машине.md",
+    "📚 Computer_Science/🐳 Docker",
+    "📚 Computer_Science/🖥️ OS/Task Sheduler.md",
+    "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/8. Копирование виртуальных машин.md",
     "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/7. Работа со snapshot'ом (снимки)..md",
     "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/6. Сетевое подключение.md",
     "📚 Computer_Science/🖥️ OS/Сетевое подключение - виртуальный адаптер хоста.md",
@@ -189,24 +201,12 @@
     "Без названия",
     "📚 Computer_Science/🐧 Linux/🧑‍💻 Устройство Linux/Файловая система.md",
     "📚 Computer_Science/🐧 Linux/🧑‍💻 Устройство Linux/Работа с файлами.md",
-    "📚 Пак значков/💻 Программирование и технологии.md",
     "📚 Computer_Science/🐧 Linux/🧑‍💻 Устройство Linux",
-    "📚 Пак значков/🌐 Веб и фронтенд.md",
-    "📚 Пак значков/🎥 Медиа и ресурсы.md",
-    "📚 Пак значков/🏗️ Архитектура и проектирование.md",
-    "📚 Пак значков/📝 Образование и знания.md",
-    "📚 Пак значков/📁 Организация и навигация.md",
-    "📚 Программирование/📚 DotNet/🏗️ Architecture/🧩 Архитектурные паттерны/Виды архитектуры проекта.md",
     "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM",
-    "📚 Пак значков/🧠 Личное развитие и soft skills.md",
-    "📚 Программирование/📚 CSharp/📚 Books/📘 Параллельное программирование на CSharp и .NET/Глава 1. Введение в параллельное программирование/1.9 BackgroundWorker.md",
     "📚 Пак значков",
-    "📚 Программирование/📚 Common/🗄️ Databases/📚 Books/📘 PostgreSQL SQL+PL_pgSQL/Глава 9. Структура программ PL pgSQL/9.1 Структура блока PL pgSQL.md",
     "📚 Computer_Science/🐧 Linux",
     "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 8.  Securing your SignalR applications",
     "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration",
-    "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 1. Introduction to SignalR",
-    "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide",
-    "Программирование/📁 DotNet/📁 SignalR/📁 Books"
+    "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 1. Introduction to SignalR"
   ]
 }
