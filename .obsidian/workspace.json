@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/11. Копирование файлов между хостом и виртуальной машиной.md",
+                "file": "📚 Computer_Science/🚀 Git/Шпаргалка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Копирование файлов между хостом и виртуальной машиной"
+              "title": "Шпаргалка"
             }
           }
         ]
@@ -172,8 +172,16 @@
   },
   "active": "005b88702d6d5738",
   "lastOpenFiles": [
-    "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/10. Использование буфера обмена для обмена данными между хостом и виртуальной машиной.md",
+    "📚 Пак значков/💻 Программирование и технологии.md",
+    "📚 Computer_Science/🚀 Git/Шпаргалка.md",
+    "📚 Computer_Science/🚀 Git",
+    "📚 Пак значков/📁 Организация и навигация.md",
+    "📚 Пак значков/📝 Образование и знания.md",
+    "📚 Пак значков/🧠 Личное развитие и soft skills.md",
+    "📚 Пак значков/🎥 Медиа и ресурсы.md",
+    "📚 Пак значков/🌐 Веб и фронтенд.md",
     "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/11. Копирование файлов между хостом и виртуальной машиной.md",
+    "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/10. Использование буфера обмена для обмена данными между хостом и виртуальной машиной.md",
     "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/9. Архивирование БД на виртуальной машине.md",
     "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/8. Копирование виртуальных машин.md",
     "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/1. Предварительная подготовка.md",
@@ -191,22 +199,14 @@
     "📚 Computer_Science/🖥️ OS/Отличие дампа базы данных от бэкапа базы данных.md",
     "📚 Computer_Science/🐳 Docker/Docker и БД/3. docker-compose.yml с автоматическим восстановлением из дампа при старте.md",
     "📚 Computer_Science/🐳 Docker/Docker и БД/2. Пример восстановления базы данных PostgreSQL из Docker Volume.md",
-    "📚 Пак значков/💻 Программирование и технологии.md",
     "📚 Computer_Science/🐳 Docker/Docker и БД",
-    "📚 Пак значков/🏗️ Архитектура и проектирование.md",
-    "📚 Пак значков/🎥 Медиа и ресурсы.md",
-    "📚 Пак значков/🌐 Веб и фронтенд.md",
     "📚 Computer_Science/🐳 Docker",
-    "📚 Computer_Science/🖥️ OS/Task Sheduler.md",
-    "📚 Computer_Science/🖥️ OS/Сетевое подключение - виртуальный адаптер хоста.md",
-    "📚 Computer_Science/🖥️ OS/Сетевое подключение - Bridge.md",
     "Без названия",
     "📚 Computer_Science/🐧 Linux/🧑‍💻 Устройство Linux",
     "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM",
     "📚 Пак значков",
     "📚 Computer_Science/🐧 Linux",
     "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 8.  Securing your SignalR applications",
-    "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration",
-    "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 1. Introduction to SignalR"
+    "📚 Программирование/📚 DotNet/🏗️ ASP.NET/🌐 SignalR/📘 SignalR on .NET 6 - the Complete Guide/Глава 7. Advanced SignalR configuration"
   ]
 }
