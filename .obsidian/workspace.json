@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/12. Создание общих папок для хоста и виртуальной машины.md",
+                "file": "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/13. Удаление виртуальной машины.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. Создание общих папок для хоста и виртуальной машины"
+              "title": "13. Удаление виртуальной машины"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "005b88702d6d5738",
   "lastOpenFiles": [
-    "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/11. Копирование файлов между хостом и виртуальной машиной.md",
     "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/12. Создание общих папок для хоста и виртуальной машины.md",
+    "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/13. Удаление виртуальной машины.md",
+    "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/11. Копирование файлов между хостом и виртуальной машиной.md",
     "📚 Пак значков/📁 Организация и навигация.md",
     "📚 Пак значков/📝 Образование и знания.md",
     "📚 Пак значков/🧠 Личное развитие и soft skills.md",
@@ -198,7 +199,6 @@
     "📚 Computer_Science/🐧 Linux/🧑‍💻 Устройство Linux/Файловая система.md",
     "📚 Computer_Science/🐳 Docker/Docker и БД/4. О дампах и бэкапах БД в реальных проектах.md",
     "📚 Computer_Science/🖥️ OS/Отличие дампа базы данных от бэкапа базы данных.md",
-    "📚 Computer_Science/🐳 Docker/Docker и БД/3. docker-compose.yml с автоматическим восстановлением из дампа при старте.md",
     "📚 Computer_Science/🐳 Docker/Docker и БД",
     "📚 Computer_Science/🐳 Docker",
     "Без названия",
