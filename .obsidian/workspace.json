@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/10. Использование буфера обмена для обмена данными между хостом и виртуальной машиной.md",
+                "file": "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/11. Копирование файлов между хостом и виртуальной машиной.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Использование буфера обмена для обмена данными между хостом и виртуальной машиной"
+              "title": "11. Копирование файлов между хостом и виртуальной машиной"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "005b88702d6d5738",
   "lastOpenFiles": [
-    "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/1. Предварительная подготовка.md",
     "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/10. Использование буфера обмена для обмена данными между хостом и виртуальной машиной.md",
+    "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/11. Копирование файлов между хостом и виртуальной машиной.md",
+    "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/1. Предварительная подготовка.md",
     "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/2. Установка VirtualBox.md",
     "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/3. Создание виртуальном машины Ubuntu.md",
     "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM/4. Установка Ubuntu Server.md",
@@ -199,7 +200,6 @@
     "📚 Computer_Science/🖥️ OS/Task Sheduler.md",
     "📚 Computer_Science/🖥️ OS/Сетевое подключение - виртуальный адаптер хоста.md",
     "📚 Computer_Science/🖥️ OS/Сетевое подключение - Bridge.md",
-    "NAT.md",
     "Без названия",
     "📚 Computer_Science/🐧 Linux/🧑‍💻 Устройство Linux",
     "📚 Computer_Science/🐧 Linux/⚙️ Развертывание Ubuntu на VM",
